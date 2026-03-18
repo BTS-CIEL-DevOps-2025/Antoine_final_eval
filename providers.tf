@@ -20,7 +20,6 @@ terraform {
     storage_account_name = "Antoinefinalevalsa"
     container_name       = "common"
     key                  = "terraform.tfstate"
-    Evenement            = "eval"
   }
 }
 
