@@ -18,7 +18,7 @@ terraform {
     subscription_id      = "f6f9cbca-a3b0-420f-9354-c55f2d575fca"
     resource_group_name  = "resources_partagees"
     storage_account_name = "btsciel2finaleval"
-    container_name       = "Antoine"
+    container_name       = "antoine"
     key                  = "terraform.tfstate"
   }
 }
