@@ -1,4 +1,4 @@
-name: 'Terraform'
+name: 'Execution du terraform plan Antoine '
 run-name: 'Deployé par Antoine'
 
 on:
